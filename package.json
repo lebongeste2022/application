@@ -1,5 +1,4 @@
 {
-  
   "name": "shreyu-react-appgit",
   "version": "1.0.0",
   "private": true,
@@ -77,7 +76,7 @@
     "yup": "^0.32.9"
   },
   "scripts": {
-    "deploy": "gh-pages -d shreyu_react",
+    "deploy": "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
