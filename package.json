@@ -108,7 +108,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "hommepage": "http://lebongeste2022.github.io/application",
+  "homepage": "http://lebongeste2022.github.io/application",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js"
 }
