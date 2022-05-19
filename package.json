@@ -76,7 +76,8 @@
     "yup": "^0.32.9"
   },
   "scripts": {
-    "deploy": "gh-pages -d SHREYU_REACT",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
