@@ -1,5 +1,5 @@
 {
-  "homepage": "https://lebongeste2022.github.io/application", 
+  "homepage": "https://lebongeste2022.github.io/application",
   "name": "shreyu-react-app",
   "version": "1.0.0",
   "private": true,
@@ -109,7 +109,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  
   "description": "This project",
   "main": "index.js"
 }
